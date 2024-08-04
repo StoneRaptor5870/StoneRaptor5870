@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://nischay-fullstackdeveloper.netlify.app/](https://nischay-fullstackdeveloper.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-five-vert-38.vercel.app/](https://my-portfolio-five-vert-38.vercel.app/)
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **nischay.dtu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Pwt3P8Ifq8Loj5oLDhMqWGWxhU61Kj2N/view?usp=sharing](https://drive.google.com/file/d/1Pwt3P8Ifq8Loj5oLDhMqWGWxhU61Kj2N/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qOwol87TZSuILj651azNng-Dw50Z4lpn/view?usp=sharing](https://drive.google.com/file/d/1qOwol87TZSuILj651azNng-Dw50Z4lpn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
