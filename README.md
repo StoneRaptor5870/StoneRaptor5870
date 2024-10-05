@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nischay</h1>
 <h3 align="center">Hates bugs 🖥️ but ladybug 🐞 is an exception.</h3>
 
-- 🌱 I’m currently learning **Next.js**
-
 - 👨‍💻 All of my projects are available at [https://my-portfolio-five-vert-38.vercel.app/](https://my-portfolio-five-vert-38.vercel.app/)
 
 - 💬 Ask me about **Web Development**
