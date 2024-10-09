@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nischay.dtu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qOwol87TZSuILj651azNng-Dw50Z4lpn/view?usp=sharing](https://drive.google.com/file/d/1qOwol87TZSuILj651azNng-Dw50Z4lpn/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RRUnEgZL0oYYKmKPKwMyUKvlDqRdHaA5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
