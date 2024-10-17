@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nischay</h1>
 <h3 align="center">Hates bugs 🖥️ but ladybug 🐞 is an exception.</h3>
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-five-vert-38.vercel.app/](https://my-portfolio-five-vert-38.vercel.app/)
-
+- 👨‍💻 All of my projects are available at my [Portfolio](https://bytebynischay.vercel.app/)
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **nischay.dtu@gmail.com**
